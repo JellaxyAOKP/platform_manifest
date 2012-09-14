@@ -35,6 +35,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
+  <project path="device/samsung/cooper" name="JellaxyAOKP/android_device_samsung_cooper" remote="github" revision="jb-aokp" />
   <project path="device/samsung/gio" name="JellaxyAOKP/android_device_samsung_gio" remote="github" revision="jb-aokp" />
   <project path="device/samsung/tass" name="JellaxyAOKP/android_device_samsung_tass" remote="github" revision="jb-aokp" />
   <project path="device/samsung/msm7x27-common" name="JellaxyAOKP/android_device_samsung_msm7x27-common" remote="github" revision="jellybean" />
@@ -225,6 +226,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
+  <project path="kernel/samsung/msm7x27" name="Jellaxy/android_kernel_samsung_msm7x27" revision="jellykernel" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
