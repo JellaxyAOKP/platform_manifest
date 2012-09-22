@@ -29,16 +29,7 @@
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="dalvik" name="JellaxyAOKP/platform_dalvik" remote="github" revision="jb" />
   <project path="development" name="AOKP/platform_development" remote="aokp" revision="jb" />
-  <project path="device/asus/grouper" name="AOKP/android_device_asus_grouper" remote="aokp" revision="jb" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/generic/armv7-a" name="device/generic/armv7-a" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/moto/common" name="device/moto/common" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/moto/stingray" name="device/moto/stingray" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="device/moto/wingray" name="device/moto/wingray" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="device/samsung/cooper" name="JellaxyAOKP/android_device_samsung_cooper" remote="github" revision="jb-aokp" />
   <project path="device/samsung/gio" name="JellaxyAOKP/android_device_samsung_gio" remote="github" revision="jb-aokp" />
