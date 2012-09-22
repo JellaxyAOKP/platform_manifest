@@ -164,7 +164,7 @@
   <project path="external/sonivox" name="platform/external/sonivox" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/speex" name="platform/external/speex" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/sqlite" name="AOKP/external_sqlite" remote="aokp" revision="jb" />
-  <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
+  <project path="external/srec" name="android_external_srec" remote="cm" revision="jellybean" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/stlport" name="platform/external/stlport" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/strace" name="platform/external/strace" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
